@@ -1,0 +1,313 @@
+who is the chairperson of st mary redcliffe and temple school? 	 select distinct var_uri where brack_open eyr_St_Mary_Redcliffe_and_Temple_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of uwc mahindra college? 	 select distinct var_uri where brack_open eyr_UWC_Mahindra_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of northern elements progressive union? 	 select distinct var_uri where brack_open eyr_Northern_Elements_Progressive_Union eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of allied schools _pakistan_? 	 select distinct var_uri where brack_open eyr_Allied_Schools__Pakistan_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st benedict_s school_ ealing? 	 select distinct var_uri where brack_open eyr_St_Benedict_s_School__Ealing eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of florida democratic party? 	 select distinct var_uri where brack_open eyr_Florida_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of movement now? 	 select distinct var_uri where brack_open eyr_Movement_Now eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of maine democratic party? 	 select distinct var_uri where brack_open eyr_Maine_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of resource academia? 	 select distinct var_uri where brack_open eyr_Resource_Academia eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of salisbury cathedral school? 	 select distinct var_uri where brack_open eyr_Salisbury_Cathedral_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of gunma kokusai academy? 	 select distinct var_uri where brack_open eyr_Gunma_Kokusai_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the harrodian school? 	 select distinct var_uri where brack_open eyr_The_Harrodian_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of american samoa? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_American_Samoa eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of centre group? 	 select distinct var_uri where brack_open eyr_Centre_Group eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sree vidyanikethan college of pharmacy? 	 select distinct var_uri where brack_open eyr_Sree_Vidyanikethan_College_of_Pharmacy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of likud? 	 select distinct var_uri where brack_open eyr_Likud eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party of illinois? 	 select distinct var_uri where brack_open eyr_Democratic_Party_of_Illinois eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of green league? 	 select distinct var_uri where brack_open eyr_Green_League eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of puerto rico? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_Puerto_Rico eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of minnesota legal marijuana now party? 	 select distinct var_uri where brack_open eyr_Minnesota_Legal_Marijuana_Now_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kendriya vidyalaya bolarum? 	 select distinct var_uri where brack_open eyr_Kendriya_Vidyalaya_Bolarum eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of léman international school - chengdu? 	 select distinct var_uri where brack_open eyr_L_man_International_School___Chengdu eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of asar _party_? 	 select distinct var_uri where brack_open eyr_Asar__party_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of melbourne grammar school? 	 select distinct var_uri where brack_open eyr_Melbourne_Grammar_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of national academy of sports _philippines_? 	 select distinct var_uri where brack_open eyr_National_Academy_of_Sports__Philippines_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of presentation convent high school_ murree? 	 select distinct var_uri where brack_open eyr_Presentation_Convent_High_School__Murree eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of legal marijuana now party? 	 select distinct var_uri where brack_open eyr_Legal_Marijuana_Now_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of district of columbia republican party? 	 select distinct var_uri where brack_open eyr_District_of_Columbia_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of estonian reform party? 	 select distinct var_uri where brack_open eyr_Estonian_Reform_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of khartoum international community school? 	 select distinct var_uri where brack_open eyr_Khartoum_International_Community_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of manarat dhaka international school and college? 	 select distinct var_uri where brack_open eyr_Manarat_Dhaka_International_School_and_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of english international school prague? 	 select distinct var_uri where brack_open eyr_English_International_School_Prague eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of presentation convent school_ peshawar? 	 select distinct var_uri where brack_open eyr_Presentation_Convent_School__Peshawar eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new people_s party _hong kong_? 	 select distinct var_uri where brack_open eyr_New_People_s_Party__Hong_Kong_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of british people_s party _1939_? 	 select distinct var_uri where brack_open eyr_British_People_s_Party__1939_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of texas? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_Texas eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of joint opposition? 	 select distinct var_uri where brack_open eyr_Joint_Opposition eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of oklahoma republican party? 	 select distinct var_uri where brack_open eyr_Oklahoma_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kendriya vidyalaya bhu? 	 select distinct var_uri where brack_open eyr_Kendriya_Vidyalaya_BHU eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of cothill house? 	 select distinct var_uri where brack_open eyr_Cothill_House eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kalakshetra foundation? 	 select distinct var_uri where brack_open eyr_Kalakshetra_Foundation eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the skinners_ school? 	 select distinct var_uri where brack_open eyr_The_Skinners__School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic alternative _91? 	 select distinct var_uri where brack_open eyr_Democratic_Alternative__91 eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of u.s. marijuana party? 	 select distinct var_uri where brack_open eyr_U_S__Marijuana_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic national alliance _sri lanka_? 	 select distinct var_uri where brack_open eyr_Democratic_National_Alliance__Sri_Lanka_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of national liberal party _hawaii_? 	 select distinct var_uri where brack_open eyr_National_Liberal_Party__Hawaii_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st andrews international school bangkok? 	 select distinct var_uri where brack_open eyr_St_Andrews_International_School_Bangkok eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new democrat network? 	 select distinct var_uri where brack_open eyr_New_Democrat_Network eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of india international school _kuwait_? 	 select distinct var_uri where brack_open eyr_India_International_School__Kuwait_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of mata jaswant kaur memorial school_ badal? 	 select distinct var_uri where brack_open eyr_Mata_Jaswant_Kaur_Memorial_School__Badal eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of social democratic party _faroe islands_? 	 select distinct var_uri where brack_open eyr_Social_Democratic_Party__Faroe_Islands_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of labor party _united states_ 1996_? 	 select distinct var_uri where brack_open eyr_Labor_Party__United_States__1996_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic socialists _70? 	 select distinct var_uri where brack_open eyr_Democratic_Socialists__70 eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of indiana democratic party? 	 select distinct var_uri where brack_open eyr_Indiana_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of carpathian german party? 	 select distinct var_uri where brack_open eyr_Carpathian_German_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ohio republican party? 	 select distinct var_uri where brack_open eyr_Ohio_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of co-operative party? 	 select distinct var_uri where brack_open eyr_Co_operative_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sierra leone people_s party? 	 select distinct var_uri where brack_open eyr_Sierra_Leone_People_s_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of iowa democratic party? 	 select distinct var_uri where brack_open eyr_Iowa_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of alaskan independence party? 	 select distinct var_uri where brack_open eyr_Alaskan_Independence_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of north carolina democratic party? 	 select distinct var_uri where brack_open eyr_North_Carolina_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of janamat party? 	 select distinct var_uri where brack_open eyr_Janamat_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ida scudder school? 	 select distinct var_uri where brack_open eyr_Ida_Scudder_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of liberal party _sudan_? 	 select distinct var_uri where brack_open eyr_Liberal_Party__Sudan_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of amman baccalaureate school? 	 select distinct var_uri where brack_open eyr_Amman_Baccalaureate_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of bangladesh nationalist party? 	 select distinct var_uri where brack_open eyr_Bangladesh_Nationalist_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of singapore chinese girls_ school? 	 select distinct var_uri where brack_open eyr_Singapore_Chinese_Girls__School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of gahal? 	 select distinct var_uri where brack_open eyr_Gahal eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of pdp-laban? 	 select distinct var_uri where brack_open eyr_PDP_Laban eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of union for democracy and social progress _democratic republic of the congo_? 	 select distinct var_uri where brack_open eyr_Union_for_Democracy_and_Social_Progress__Democratic_Republic_of_the_Congo_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of chorister school? 	 select distinct var_uri where brack_open eyr_Chorister_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of accra academy? 	 select distinct var_uri where brack_open eyr_Accra_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of jain international residential school? 	 select distinct var_uri where brack_open eyr_Jain_International_Residential_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of mats institute of management & entrepreneurship? 	 select distinct var_uri where brack_open eyr_MATS_Institute_of_Management___Entrepreneurship eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kv iit chennai? 	 select distinct var_uri where brack_open eyr_KV_IIT_Chennai eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of people_s alliance for gupkar declaration? 	 select distinct var_uri where brack_open eyr_People_s_Alliance_for_Gupkar_Declaration eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of hin hua high school? 	 select distinct var_uri where brack_open eyr_Hin_Hua_High_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of dominican college_ fortwilliam? 	 select distinct var_uri where brack_open eyr_Dominican_College__Fortwilliam eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of govt. high school_ mathili? 	 select distinct var_uri where brack_open eyr_Govt__High_School__Mathili eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of shan nationalities league for democracy? 	 select distinct var_uri where brack_open eyr_Shan_Nationalities_League_for_Democracy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of westminster school? 	 select distinct var_uri where brack_open eyr_Westminster_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of belang van nederland? 	 select distinct var_uri where brack_open eyr_Belang_van_Nederland eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sri lanka podujana peramuna? 	 select distinct var_uri where brack_open eyr_Sri_Lanka_Podujana_Peramuna eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of rickmansworth school? 	 select distinct var_uri where brack_open eyr_Rickmansworth_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of christ church cathedral school? 	 select distinct var_uri where brack_open eyr_Christ_Church_Cathedral_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of minnesota? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_Minnesota eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of forum for democracy? 	 select distinct var_uri where brack_open eyr_Forum_for_Democracy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of socialist party of labour? 	 select distinct var_uri where brack_open eyr_Socialist_Party_of_Labour eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of king_s college school? 	 select distinct var_uri where brack_open eyr_King_s_College_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of people_s front for democracy and justice? 	 select distinct var_uri where brack_open eyr_People_s_Front_for_Democracy_and_Justice eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of worker-communism unity party of iran? 	 select distinct var_uri where brack_open eyr_Worker_communism_Unity_Party_of_Iran eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of national democratic congress _ghana_? 	 select distinct var_uri where brack_open eyr_National_Democratic_Congress__Ghana_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of congressional black caucus? 	 select distinct var_uri where brack_open eyr_Congressional_Black_Caucus eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of balvantray mehta vidya bhawan asma? 	 select distinct var_uri where brack_open eyr_Balvantray_Mehta_Vidya_Bhawan_ASMA eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of liberal democratic party _netherlands_? 	 select distinct var_uri where brack_open eyr_Liberal_Democratic_Party__Netherlands_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of colorado democratic party? 	 select distinct var_uri where brack_open eyr_Colorado_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of iowa? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_Iowa eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of stanmore college? 	 select distinct var_uri where brack_open eyr_Stanmore_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of american freedom party? 	 select distinct var_uri where brack_open eyr_American_Freedom_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of social democratic party _japan_ 1926_? 	 select distinct var_uri where brack_open eyr_Social_Democratic_Party__Japan__1926_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of pennsylvania legislative black caucus? 	 select distinct var_uri where brack_open eyr_Pennsylvania_Legislative_Black_Caucus eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of westminster abbey choir school? 	 select distinct var_uri where brack_open eyr_Westminster_Abbey_Choir_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of new mexico? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_New_Mexico eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of portland college? 	 select distinct var_uri where brack_open eyr_Portland_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of yes solidarity for hungary movement? 	 select distinct var_uri where brack_open eyr_Yes_Solidarity_for_Hungary_Movement eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kendriya vidyalaya_ raebareli? 	 select distinct var_uri where brack_open eyr_Kendriya_Vidyalaya__Raebareli eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of washington state democratic party? 	 select distinct var_uri where brack_open eyr_Washington_State_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of presentation convent school_ jhelum? 	 select distinct var_uri where brack_open eyr_Presentation_Convent_School__Jhelum eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of alabama democratic party? 	 select distinct var_uri where brack_open eyr_Alabama_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kilvington grammar school? 	 select distinct var_uri where brack_open eyr_Kilvington_Grammar_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of all india professionals congress? 	 select distinct var_uri where brack_open eyr_All_India_Professionals_Congress eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of dhirubhai ambani international school? 	 select distinct var_uri where brack_open eyr_Dhirubhai_Ambani_International_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of minnesota democratic-farmer-labor party? 	 select distinct var_uri where brack_open eyr_Minnesota_Democratic_Farmer_Labor_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of texas democratic party? 	 select distinct var_uri where brack_open eyr_Texas_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of nevada democratic party? 	 select distinct var_uri where brack_open eyr_Nevada_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of don bosco catholic school? 	 select distinct var_uri where brack_open eyr_Don_Bosco_Catholic_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of rivers state peoples democratic party? 	 select distinct var_uri where brack_open eyr_Rivers_State_Peoples_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of macao civic power? 	 select distinct var_uri where brack_open eyr_Macao_Civic_Power eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ohio democratic party? 	 select distinct var_uri where brack_open eyr_Ohio_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of brooklyn democratic party? 	 select distinct var_uri where brack_open eyr_Brooklyn_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of wright robinson college? 	 select distinct var_uri where brack_open eyr_Wright_Robinson_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of parmiter_s school? 	 select distinct var_uri where brack_open eyr_Parmiter_s_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of people_s national movement? 	 select distinct var_uri where brack_open eyr_People_s_National_Movement eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of nepal loktantrik forum? 	 select distinct var_uri where brack_open eyr_Nepal_Loktantrik_Forum eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of economic freedom fighters? 	 select distinct var_uri where brack_open eyr_Economic_Freedom_Fighters eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of michigan democratic party? 	 select distinct var_uri where brack_open eyr_Michigan_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of railway mixed higher secondary school_ golden rock_ tiruchirappalli? 	 select distinct var_uri where brack_open eyr_Railway_Mixed_Higher_Secondary_School__Golden_Rock__Tiruchirappalli eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kamnoetvidya science academy? 	 select distinct var_uri where brack_open eyr_Kamnoetvidya_Science_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st george_s school_ windsor castle? 	 select distinct var_uri where brack_open eyr_St_George_s_School__Windsor_Castle eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of libertarian party _united states_? 	 select distinct var_uri where brack_open eyr_Libertarian_Party__United_States_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of hereford cathedral school? 	 select distinct var_uri where brack_open eyr_Hereford_Cathedral_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of taiwan statebuilding party? 	 select distinct var_uri where brack_open eyr_Taiwan_Statebuilding_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of marlborough college malaysia? 	 select distinct var_uri where brack_open eyr_Marlborough_College_Malaysia eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of english martyrs school and sixth form college? 	 select distinct var_uri where brack_open eyr_English_Martyrs_School_and_Sixth_Form_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ghad el-thawra party? 	 select distinct var_uri where brack_open eyr_Ghad_El_Thawra_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of union party _burma_? 	 select distinct var_uri where brack_open eyr_Union_Party__Burma_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of king_s school_ rochester? 	 select distinct var_uri where brack_open eyr_King_s_School__Rochester eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of cook county democratic party? 	 select distinct var_uri where brack_open eyr_Cook_County_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st. joseph_s technical institute_ faisalabad? 	 select distinct var_uri where brack_open eyr_St__Joseph_s_Technical_Institute__Faisalabad eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of papplewick school? 	 select distinct var_uri where brack_open eyr_Papplewick_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of south dakota democratic party? 	 select distinct var_uri where brack_open eyr_South_Dakota_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of socialist campaign group? 	 select distinct var_uri where brack_open eyr_Socialist_Campaign_Group eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of social democratic party _tajikistan_? 	 select distinct var_uri where brack_open eyr_Social_Democratic_Party__Tajikistan_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of workers_ party _singapore_? 	 select distinct var_uri where brack_open eyr_Workers__Party__Singapore_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of jersey liberal conservatives? 	 select distinct var_uri where brack_open eyr_Jersey_Liberal_Conservatives eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of el-ghad party? 	 select distinct var_uri where brack_open eyr_El_Ghad_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of union for peace and development party? 	 select distinct var_uri where brack_open eyr_Union_for_Peace_and_Development_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of all people_s congress _ghana_? 	 select distinct var_uri where brack_open eyr_All_People_s_Congress__Ghana_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ipswich school? 	 select distinct var_uri where brack_open eyr_Ipswich_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the pilgrims_ school? 	 select distinct var_uri where brack_open eyr_The_Pilgrims__School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of australian republic movement? 	 select distinct var_uri where brack_open eyr_Australian_Republic_Movement eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sri lanka people_s freedom alliance? 	 select distinct var_uri where brack_open eyr_Sri_Lanka_People_s_Freedom_Alliance eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of oregon republican party? 	 select distinct var_uri where brack_open eyr_Oregon_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of pimlico academy? 	 select distinct var_uri where brack_open eyr_Pimlico_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of eton college? 	 select distinct var_uri where brack_open eyr_Eton_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic independent party? 	 select distinct var_uri where brack_open eyr_Democratic_Independent_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican state committee of delaware? 	 select distinct var_uri where brack_open eyr_Republican_State_Committee_of_Delaware eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of la salle high school multan? 	 select distinct var_uri where brack_open eyr_La_Salle_High_School_Multan eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of future movement? 	 select distinct var_uri where brack_open eyr_Future_Movement eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of mussoorie international school? 	 select distinct var_uri where brack_open eyr_Mussoorie_International_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of social justice party _somalia_? 	 select distinct var_uri where brack_open eyr_Social_Justice_Party__Somalia_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of abu dhabi indian school? 	 select distinct var_uri where brack_open eyr_Abu_Dhabi_Indian_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of malay college kuala kangsar? 	 select distinct var_uri where brack_open eyr_Malay_College_Kuala_Kangsar eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of university college school? 	 select distinct var_uri where brack_open eyr_University_College_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of elmhurst ballet school? 	 select distinct var_uri where brack_open eyr_Elmhurst_Ballet_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kilkenny college? 	 select distinct var_uri where brack_open eyr_Kilkenny_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of wells cathedral school? 	 select distinct var_uri where brack_open eyr_Wells_Cathedral_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of havelock academy? 	 select distinct var_uri where brack_open eyr_Havelock_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ishaath public school? 	 select distinct var_uri where brack_open eyr_Ishaath_Public_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of all parties hurriyat conference? 	 select distinct var_uri where brack_open eyr_All_Parties_Hurriyat_Conference eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sarala birla academy? 	 select distinct var_uri where brack_open eyr_Sarala_Birla_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of movement for rights and freedoms? 	 select distinct var_uri where brack_open eyr_Movement_for_Rights_and_Freedoms eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of green party _ireland_? 	 select distinct var_uri where brack_open eyr_Green_Party__Ireland_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of haileybury and imperial service college? 	 select distinct var_uri where brack_open eyr_Haileybury_and_Imperial_Service_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of truro cathedral school? 	 select distinct var_uri where brack_open eyr_Truro_Cathedral_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the king_s school_ canterbury? 	 select distinct var_uri where brack_open eyr_The_King_s_School__Canterbury eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of scotch college_ adelaide? 	 select distinct var_uri where brack_open eyr_Scotch_College__Adelaide eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of idaho republican party? 	 select distinct var_uri where brack_open eyr_Idaho_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of purcell school for young musicians? 	 select distinct var_uri where brack_open eyr_Purcell_School_for_Young_Musicians eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of nord anglia international school al khor? 	 select distinct var_uri where brack_open eyr_Nord_Anglia_International_School_Al_Khor eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of winchester college? 	 select distinct var_uri where brack_open eyr_Winchester_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of c.b.c. monkstown? 	 select distinct var_uri where brack_open eyr_C_B_C__Monkstown eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kowloon west new dynamic? 	 select distinct var_uri where brack_open eyr_Kowloon_West_New_Dynamic eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of south dakota republican party? 	 select distinct var_uri where brack_open eyr_South_Dakota_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st mary_s college_ rawalpindi? 	 select distinct var_uri where brack_open eyr_St_Mary_s_College__Rawalpindi eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party _puerto rico_? 	 select distinct var_uri where brack_open eyr_Democratic_Party__Puerto_Rico_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of auyl people_s democratic patriotic party? 	 select distinct var_uri where brack_open eyr_Auyl_People_s_Democratic_Patriotic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the prebendal school? 	 select distinct var_uri where brack_open eyr_The_Prebendal_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of lakas-cmd? 	 select distinct var_uri where brack_open eyr_Lakas_CMD eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of presentation convent high school_ sargodha? 	 select distinct var_uri where brack_open eyr_Presentation_Convent_High_School__Sargodha eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st. peter_s high school_ pakistan? 	 select distinct var_uri where brack_open eyr_St__Peter_s_High_School__Pakistan eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of cook county republican party? 	 select distinct var_uri where brack_open eyr_Cook_County_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new jersey democratic state committee? 	 select distinct var_uri where brack_open eyr_New_Jersey_Democratic_State_Committee eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of welbeck defence sixth form college? 	 select distinct var_uri where brack_open eyr_Welbeck_Defence_Sixth_Form_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of summerhill college? 	 select distinct var_uri where brack_open eyr_Summerhill_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of mayo college? 	 select distinct var_uri where brack_open eyr_Mayo_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kendriya vidyalaya rourkela? 	 select distinct var_uri where brack_open eyr_Kendriya_Vidyalaya_Rourkela eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of political party of radicals? 	 select distinct var_uri where brack_open eyr_Political_Party_of_Radicals eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of wisconsin? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_Wisconsin eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of collège du léman? 	 select distinct var_uri where brack_open eyr_Coll_ge_du_L_man eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of mahatma education society? 	 select distinct var_uri where brack_open eyr_Mahatma_Education_Society eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of scotch college_ melbourne? 	 select distinct var_uri where brack_open eyr_Scotch_College__Melbourne eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of african national congress? 	 select distinct var_uri where brack_open eyr_African_National_Congress eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kendriya vidyalaya muzaffarpur? 	 select distinct var_uri where brack_open eyr_Kendriya_Vidyalaya_Muzaffarpur eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sri lanka freedom party? 	 select distinct var_uri where brack_open eyr_Sri_Lanka_Freedom_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sherborne school? 	 select distinct var_uri where brack_open eyr_Sherborne_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the doon school? 	 select distinct var_uri where brack_open eyr_The_Doon_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of lycée international de londres winston churchill? 	 select distinct var_uri where brack_open eyr_Lyc_e_International_de_Londres_Winston_Churchill eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party of virginia? 	 select distinct var_uri where brack_open eyr_Republican_Party_of_Virginia eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the international school bangalore? 	 select distinct var_uri where brack_open eyr_The_International_School_Bangalore eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the frank anthony public school_ bangalore? 	 select distinct var_uri where brack_open eyr_The_Frank_Anthony_Public_School__Bangalore eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st dominic_s grammar school for girls? 	 select distinct var_uri where brack_open eyr_St_Dominic_s_Grammar_School_for_Girls eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party _hong kong_? 	 select distinct var_uri where brack_open eyr_Democratic_Party__Hong_Kong_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of kabalikat ng malayang pilipino? 	 select distinct var_uri where brack_open eyr_Kabalikat_ng_Malayang_Pilipino eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sree vidyanikethan degree college? 	 select distinct var_uri where brack_open eyr_Sree_Vidyanikethan_Degree_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party of somalia? 	 select distinct var_uri where brack_open eyr_Democratic_Party_of_Somalia eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of national coalition for romania? 	 select distinct var_uri where brack_open eyr_National_Coalition_for_Romania eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of paco catholic school? 	 select distinct var_uri where brack_open eyr_Paco_Catholic_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of rastriya janata party nepal? 	 select distinct var_uri where brack_open eyr_Rastriya_Janata_Party_Nepal eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party _united states_? 	 select distinct var_uri where brack_open eyr_Democratic_Party__United_States_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of professional power? 	 select distinct var_uri where brack_open eyr_Professional_Power eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of michigan republican party? 	 select distinct var_uri where brack_open eyr_Michigan_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ofori panin senior high school? 	 select distinct var_uri where brack_open eyr_Ofori_Panin_Senior_High_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of people_s party for freedom and democracy? 	 select distinct var_uri where brack_open eyr_People_s_Party_for_Freedom_and_Democracy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of libertarian party of texas? 	 select distinct var_uri where brack_open eyr_Libertarian_Party_of_Texas eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of left alliance _finland_? 	 select distinct var_uri where brack_open eyr_Left_Alliance__Finland_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new hampshire democratic party? 	 select distinct var_uri where brack_open eyr_New_Hampshire_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of gordonstoun? 	 select distinct var_uri where brack_open eyr_Gordonstoun eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of jawahar navodaya vidyalaya? 	 select distinct var_uri where brack_open eyr_Jawahar_Navodaya_Vidyalaya eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of trinity grammar school_ kew? 	 select distinct var_uri where brack_open eyr_Trinity_Grammar_School__Kew eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of action christian national? 	 select distinct var_uri where brack_open eyr_Action_Christian_National eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of federal socialist forum_ nepal? 	 select distinct var_uri where brack_open eyr_Federal_Socialist_Forum__Nepal eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of turnbull high school? 	 select distinct var_uri where brack_open eyr_Turnbull_High_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of wyoming democratic party? 	 select distinct var_uri where brack_open eyr_Wyoming_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new democratic party _saint vincent and the grenadines_? 	 select distinct var_uri where brack_open eyr_New_Democratic_Party__Saint_Vincent_and_the_Grenadines_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of jain heritage school? 	 select distinct var_uri where brack_open eyr_Jain_Heritage_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of colfe_s school? 	 select distinct var_uri where brack_open eyr_Colfe_s_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party of connecticut? 	 select distinct var_uri where brack_open eyr_Democratic_Party_of_Connecticut eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st bonaventure_s? 	 select distinct var_uri where brack_open eyr_St_Bonaventure_s eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of chembur english high school? 	 select distinct var_uri where brack_open eyr_Chembur_English_High_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of dulwich college? 	 select distinct var_uri where brack_open eyr_Dulwich_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of universal league for the material elevation of the industrious classes? 	 select distinct var_uri where brack_open eyr_Universal_League_for_the_Material_Elevation_of_the_Industrious_Classes eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of sainik school_ manasbal? 	 select distinct var_uri where brack_open eyr_Sainik_School__Manasbal eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of thomas middlecott academy? 	 select distinct var_uri where brack_open eyr_Thomas_Middlecott_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of scottish socialist party _1932_? 	 select distinct var_uri where brack_open eyr_Scottish_Socialist_Party__1932_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new hampshire republican state committee? 	 select distinct var_uri where brack_open eyr_New_Hampshire_Republican_State_Committee eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of hillwood college? 	 select distinct var_uri where brack_open eyr_Hillwood_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of william ellis school? 	 select distinct var_uri where brack_open eyr_William_Ellis_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of shaaban robert secondary school? 	 select distinct var_uri where brack_open eyr_Shaaban_Robert_Secondary_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of masters school? 	 select distinct var_uri where brack_open eyr_Masters_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of british international school bratislava? 	 select distinct var_uri where brack_open eyr_British_International_School_Bratislava eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of salesian college _chadstone_? 	 select distinct var_uri where brack_open eyr_Salesian_College__Chadstone_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of portora royal school? 	 select distinct var_uri where brack_open eyr_Portora_Royal_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of utah republican party? 	 select distinct var_uri where brack_open eyr_Utah_Republican_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of british school warsaw? 	 select distinct var_uri where brack_open eyr_British_School_Warsaw eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of vermont progressive party? 	 select distinct var_uri where brack_open eyr_Vermont_Progressive_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of beeston hall school? 	 select distinct var_uri where brack_open eyr_Beeston_Hall_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of la côte international school? 	 select distinct var_uri where brack_open eyr_La_C_te_International_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of international revolutionary marxist centre? 	 select distinct var_uri where brack_open eyr_International_Revolutionary_Marxist_Centre eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of shiplake college? 	 select distinct var_uri where brack_open eyr_Shiplake_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of hereford cathedral junior school? 	 select distinct var_uri where brack_open eyr_Hereford_Cathedral_Junior_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of anglo-swedish society? 	 select distinct var_uri where brack_open eyr_Anglo_Swedish_Society eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic party of oregon? 	 select distinct var_uri where brack_open eyr_Democratic_Party_of_Oregon eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of campus school_ ccs hau? 	 select distinct var_uri where brack_open eyr_Campus_School__CCS_HAU eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of chinese peasants_ and workers_ democratic party? 	 select distinct var_uri where brack_open eyr_Chinese_Peasants__and_Workers__Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of bulgarian socialist party? 	 select distinct var_uri where brack_open eyr_Bulgarian_Socialist_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of stable afpfl? 	 select distinct var_uri where brack_open eyr_Stable_AFPFL eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of don bosco technical institute_ lahore? 	 select distinct var_uri where brack_open eyr_Don_Bosco_Technical_Institute__Lahore eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of socialist party of ontario? 	 select distinct var_uri where brack_open eyr_Socialist_Party_of_Ontario eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of people_s national party? 	 select distinct var_uri where brack_open eyr_People_s_National_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new panther vanguard movement? 	 select distinct var_uri where brack_open eyr_New_Panther_Vanguard_Movement eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of redeemer_s international secondary school? 	 select distinct var_uri where brack_open eyr_Redeemer_s_International_Secondary_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of blackfriars priory school? 	 select distinct var_uri where brack_open eyr_Blackfriars_Priory_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of progressive governors forum? 	 select distinct var_uri where brack_open eyr_Progressive_Governors_Forum eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of farlington school? 	 select distinct var_uri where brack_open eyr_Farlington_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of dhaka cantonment girls public school and college? 	 select distinct var_uri where brack_open eyr_Dhaka_Cantonment_Girls_Public_School_and_College eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of koç school? 	 select distinct var_uri where brack_open eyr_Ko__School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of al-markazul islami as-salafi? 	 select distinct var_uri where brack_open eyr_Al_Markazul_Islami_As_Salafi eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of community for social justice people_s party? 	 select distinct var_uri where brack_open eyr_Community_for_Social_Justice_People_s_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of revolutionary committee of the chinese kuomintang? 	 select distinct var_uri where brack_open eyr_Revolutionary_Committee_of_the_Chinese_Kuomintang eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of goldcrest high international school? 	 select distinct var_uri where brack_open eyr_Goldcrest_High_International_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of china democratic league? 	 select distinct var_uri where brack_open eyr_China_Democratic_League eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of all people_s party _ghana_? 	 select distinct var_uri where brack_open eyr_All_People_s_Party__Ghana_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ada_ the national college for digital skills? 	 select distinct var_uri where brack_open eyr_Ada__the_National_College_for_Digital_Skills eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of workers_ socialist league? 	 select distinct var_uri where brack_open eyr_Workers__Socialist_League eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of ispat high school? 	 select distinct var_uri where brack_open eyr_Ispat_High_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of royal school cavan? 	 select distinct var_uri where brack_open eyr_Royal_School_Cavan eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic progressive party? 	 select distinct var_uri where brack_open eyr_Democratic_Progressive_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of maharana mewar public school? 	 select distinct var_uri where brack_open eyr_Maharana_Mewar_Public_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new college school? 	 select distinct var_uri where brack_open eyr_New_College_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of samajbadi party_ nepal? 	 select distinct var_uri where brack_open eyr_Samajbadi_Party__Nepal eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of st. joseph_s convent school_ quetta? 	 select distinct var_uri where brack_open eyr_St__Joseph_s_Convent_School__Quetta eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of free patriotic union? 	 select distinct var_uri where brack_open eyr_Free_Patriotic_Union eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of nebraska legal marijuana now party? 	 select distinct var_uri where brack_open eyr_Nebraska_Legal_Marijuana_NOW_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of daljir party? 	 select distinct var_uri where brack_open eyr_Daljir_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of manchester grammar school? 	 select distinct var_uri where brack_open eyr_Manchester_Grammar_School eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of the grangefield academy? 	 select distinct var_uri where brack_open eyr_The_Grangefield_Academy eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of london academy of excellence? 	 select distinct var_uri where brack_open eyr_London_Academy_of_Excellence eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of social union _hungary_? 	 select distinct var_uri where brack_open eyr_Social_Union__Hungary_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of arizona democratic party? 	 select distinct var_uri where brack_open eyr_Arizona_Democratic_Party eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of for the future _political party_? 	 select distinct var_uri where brack_open eyr_For_the_Future__political_party_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of freedom and solidarity? 	 select distinct var_uri where brack_open eyr_Freedom_and_Solidarity eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of freedom front plus? 	 select distinct var_uri where brack_open eyr_Freedom_Front_Plus eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of new jersey republican state committee? 	 select distinct var_uri where brack_open eyr_New_Jersey_Republican_State_Committee eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of united malays national organisation? 	 select distinct var_uri where brack_open eyr_United_Malays_National_Organisation eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of raffles girls_ school _secondary_? 	 select distinct var_uri where brack_open eyr_Raffles_Girls__School__Secondary_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of indus college of education_ rohtak? 	 select distinct var_uri where brack_open eyr_Indus_College_of_Education__Rohtak eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of national labour party _ireland_? 	 select distinct var_uri where brack_open eyr_National_Labour_Party__Ireland_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of progressive democratic party _south carolina_? 	 select distinct var_uri where brack_open eyr_Progressive_Democratic_Party__South_Carolina_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of republican party _northern mariana islands_? 	 select distinct var_uri where brack_open eyr_Republican_Party__Northern_Mariana_Islands_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of horseed _political party_? 	 select distinct var_uri where brack_open eyr_Horseed__political_party_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of democratic people_s party _turkey_? 	 select distinct var_uri where brack_open eyr_Democratic_People_s_Party__Turkey_ eyr_chairperson var_uri sep_dot brack_close
+who is the chairperson of rhode island democratic party? 	 select distinct var_uri where brack_open eyr_Rhode_Island_Democratic_Party eyr_chairperson var_uri sep_dot brack_close

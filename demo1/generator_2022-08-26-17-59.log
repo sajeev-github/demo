@@ -1,0 +1,9 @@
+DEBUG:root:1. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a eyr:Organisation . ?a rdfs:label ?laba .  ?a eyr:chairperson ?uri .  }
+DEBUG:root:*** Query ***http://localhost:5820/kg/query?reasoning=false&graph-uri=virtual%3A%2F%2Fkg&limit=1000
+DEBUG:root:313 matches for 1
+INFO:root:   313 used resources in 313 placeholder positions
+INFO:root:   313 resources occur 	     1 times 	(100.00 %) 
+INFO:root:dbo:Person contains: <http://dbpedia.org/class/yago/Wikicat21st-centuryActors>, <http://dbpedia.org/class/yago/WikicatEnglishMusicians>, <http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>, <http://dbpedia.org/class/yago/Honoree110183757>, dbo:LacrossePlayer
+INFO:root:dbo:Athlete contains: dbo:LacrossePlayer
+INFO:root:dbo:SportsTeam contains: dboBasketballTeam
+INFO:root:     0 not instanciated templates:

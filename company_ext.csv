@@ -1,0 +1,55 @@
+﻿id,company_name,Revenue,Profit,NetIncome,TotalOperatingExpense,Country,Industry,Sector
+1055,Accenture Plc,61594.305,19701.539,6877.169,52323.418,Ireland,Information Technology Services,Technology
+1024,Adobe Inc,15785,13920,4822,9983,United States,Software—Infrastructure,Technology
+1073,Alibaba Group Holding Ltd - ADR,853062,314357,61959,786649,China,Internet Retail,Consumer Cyclical
+1076,Alphabet Inc,257637,146698,76033,178923,United States,Internet Content & Information,Communication Services
+1003,Alstom SA,15471,1725,-576,15627,France,Railroads,Industrials
+1062,"Amazon.com, Inc.",469822,197478,33364,444943,United States,Internet Retail,Consumer Cyclical
+1079,Amdocs Limited,4288.64,1477.673,688.374,3463.537,United States,Software—Infrastructure,Technology
+1047,"Amgen, Inc.",25979,19525,5893,18340,United States,Drug Manufacturers—General,Healthcare
+1082,Angang Steel Company Limited,136674,13235,6925,127774,China,Steel,Basic Materials
+1031,Apple Inc,365817,152836,94680,256868,United States,Consumer Electronics,Technology
+1004,Axa SA,7293,7507,7293,,France,Insurance—Diversified,Financial Services
+1045,Bayer AG,44081,27265,1000,40728,Germany,Drug Manufacturers—General,Healthcare
+1032,BMW Industries Ltd,4473.794,2325.484,345.342,3913.201,Germany,Auto Manufacturers,Consumer Cyclical
+1026,Bosch Ltd,117816,43294,12183,106271,India,Auto Parts,Consumer Cyclical
+1046,Broadcom Inc,27450,16861,6736,19129,United States,Semiconductors,Technology
+1006,BT Group plc,20845,12894,1274,18061,United Kingdom,Telecom Services,Communication Services
+1001,China Petroleum & Chemical Corp,2740884,300877,71208,2632197,China,Oil & Gas Integrated,Energy
+1077,Cisco Systems Inc,51557,32248,11812,37588,United States,Communication Equipment,Technology
+1052,Citigroup Inc,21952,22018,21945,,United States,Banks—Diversified,Financial Services
+1009,Cognizant Technology Solutions Corp,18507,6903,2137,15681,United States,Information Technology Services,Technology
+1008,Compagnie de Saint Gobain SA,44160,11720,2521,40224,,,
+1078,CRH PLC,29206,9856,2386,25875,Ireland,Building Materials,Basic Materials
+1063,Daimler Truck Holding AG,39764,7245,2347,36593,Germany,Farm & Heavy Construction Machinery,Industrials
+1084,Equinor ASA,88744,53584,8566,55077,Norway,Oil & Gas Integrated,Energy
+1028,Ferrari NV,4270.894,2190.281,830.767,3195.406,Italy,Auto Manufacturers,Consumer Cyclical
+1075,Ford Motor Company,136341,16438,17937,133520,United States,Auto Manufacturers,Consumer Cyclical
+1065,General Motors Company,127004,21278,10019,117680,United States,Auto Manufacturers,Consumer Cyclical
+1090,George Weston Ltd,53748,17380,753,49721,Canada,Grocery Stores,Consumer Defensive
+1021,Goldman Sachs Group Inc,64989,54629,21635,37945,United States,Capital Markets,Financial Services
+1034,GSK plc,34114,22687,4385,27949,United Kingdom,Drug Manufacturers—General,Healthcare
+1049,"Hitachi, Ltd.",10264602,2558621,583470,9468092,Japan,Conglomerates,Industrials
+1020,Honda Motor Co Ltd,14552696,2984773,707067,13759253,Japan,Auto Manufacturers,Consumer Cyclical
+1038,Honeywell International Inc,34392,10998,5542,27157,United States,Conglomerates,Industrials
+1036,IFB Industries Ltd,34153.8,11108.8,-481.6,34733,India,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+1083,Infosys Ltd,1216410,396430,221100,936260,India,Information Technology Services,Technology
+1086,Intel Corporation,79024,43815,19868,59564,United States,Semiconductors,Technology
+1071,Intuit Inc.,12726,10320,2066,10155,United States,Software—Application,Technology
+1015,JPMorgan Chase & Co,48334,48334,48334,,United States,Banks—Diversified,Financial Services
+1011,Lambo Group Bhd,8.21108,0.77415,-15.66102,23.78986,,,
+1043,LG Chem Ltd,42654722,11218310,3370745,37951369,South Korea,Chemicals,Basic Materials
+1042,LG Energy Solution Ltd,17851906,3898783,607343,17079616,South Korea,Specialty Industrial Machinery,Industrials
+1067,L'Oreal SA,32287.6,23854.3,4597,26559.3,France,Household & Personal Products,Consumer Defensive
+1058,Magna International Inc.,36242,5145,1514,34294,Canada,Auto Parts,Consumer Cyclical
+1041,Maruti Suzuki India Ltd,883298,181231,38795,853668,India,Auto Manufacturers,Consumer Cyclical
+1069,McKesson Corporation,263966,13286,1119,262119,United States,Medical Distribution,Healthcare
+1048,Medtronic PLC,31686,21715,5039,25934,Ireland,Medical Devices,Healthcare
+1019,Meta Platforms Inc,117929,95280,39370,71176,Ireland,Medical Devices,Healthcare
+1027,Microsoft Corporation,198270,135620,72738,114988,United States,Software—Infrastructure,Technology
+1081,Netflix Inc,29697.844,12365.161,4861.465,23503.335,United States,Entertainment,Communication Services
+1012,Nike Inc,46710,21479,6046,40035,United States,Footwear & Accessories,Consumer Cyclical
+1066,Nissan Chemical Corp,207972,101089,38777,159909,Japan,Chemicals,Basic Materials
+1051,Nissan Motor Co Ltd,8424585,1354054,215533,8207756,Japan,Auto Manufacturers,Consumer Cyclical
+1039,Nokia Oyj,22202,8834,1632,20044,Finland,Communication Equipment,Technology
+1007,NTT Data Corp,2551906,676002,142979,2339316,Japan,Information Technology Services,Technology

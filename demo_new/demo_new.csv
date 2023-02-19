@@ -1,0 +1,7 @@
+eyr:Company;;;who is the chairperson of <A>?;select distinct ?uri where { <A> eyr:chairperson ?uri . };select distinct ?a where {  ?a eyr:chairperson ?uri .  };
+eyr:Company;;;who is the ceo of <A>?;select distinct ?uri where { <A> eyr:chairperson ?uri . };select distinct ?a where {  ?a eyr:chairperson ?uri .  };
+eyr:Company;;;who is the chief executive officer of <A>?;select distinct ?uri where { <A> eyr:chairperson ?uri . };select distinct ?a where {  ?a eyr:chairperson ?uri .  };
+eyr:Company;;;who is the cto of <A>?;select distinct ?uri where { <A> eyr:cto ?uri . };select distinct ?a where {  ?a eyr:cto ?uri .  };
+eyr:Company;;;who is the chief technology officer of <A>?;select distinct ?uri where { <A> eyr:cto ?uri . };select distinct ?a where {  ?a eyr:cto ?uri .  };
+eyr:Company;;;who is the cdo of <A>?;select distinct ?uri where { <A> eyr:cdo ?uri . };select distinct ?a where {  ?a eyr:cdo ?uri .  };
+eyr:Company;;;who is the chief data officer of <A>?;select distinct ?uri where { <A> eyr:cdo ?uri . };select distinct ?a where {  ?a eyr:cdo ?uri .  };
